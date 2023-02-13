@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T05:02:00.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="64asSPHblCGrEBYv9-00" version="20.8.17" type="github"><diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">7VpLk+I2EP41HLNlGwzmuDDDbqWyuZBUzkJuQLWy5JElYPLr0y3JPMZsZQ8h+GAO2P2QuvV181kqPBovq9MXw+r9N12CHGVJeRqNX0ZZlk6SAi+keQ+a2SQqdkaU0emiWIu/ISqTqHWihObG0WotrahvlVwrBdze6Jgx+njrttXyNmrNdtBRrDmTXe1forT7qE2T5GL4CmK3j6GLPBo2jH/fGe1UjKe0gmCpWDtNdG32rNTHK9X4dTReGq1tuKtOS5AEa4tYGLf6gfWcsgFlf2ZAPtvClG2AJ8U2mfDNL3GGA5MuwvArUzFX+95Cg2nXdNtYqEfjxXEvLKxrxkl3xG5A3d5WEqUUb7da2VjerCBZSLnUUhs/2ThJimS1in5X+pX/oL6xRn+H1uLRHC+6K21TB2PhdKWKK/8CugJr3tElWuexCLE/0yLKx6tqz6Juf13oqGOxwXbnmS9I400E+yeBzzrAf2Pm0cDP8tfiCcBnkz4hP76D/PujkZ/OlssnID/uVc9PumTj5OOhz5aTJ0Cf96rp8w70awT3wcjn80XyBOSnvWr6aQf53/Xh0chPXubzJyBf9KrnZx3ksySddaDHtdlbeO/C8wHjabr47LFkUuwU6jjCBmhcEFwCt5Wfo6ESZUmx7hb1qpJ5y1LrmFvareC5sv9BsdLsQ7HSbrGK6Z1iTR9RrKJTrN+0gYqG1I2ja+lhwNIJS8Ex5ChbhvNAg+cBsI6srBS1aAQXaocSSBG9Gij9HKQUrqk0iRaq2s8pFBelKJ2iqR19SbbB+ORt29jgd/Q7xSiMFG+OfcK7P8kOSlQ+OLmIIBxQyaoQ/c2JBi9KY2s5coITGC4ss0IrCiklq7hu4wZnXEabjQ8naj+Qvphfd4Wr0C0CmI6lfF5CKOYs5SuM83m34AmKZqA2sAdVgvFYeuVBS1djQuBT97gl0DQkcmz9Swk8KA6/tm4nGLkpSj+0IyqcoTReTxxqCy5UzOOqOWfA/QjualEyG0Z7BGqj8fin2mqFSvjEuJM1CxjSJNstFpdkPCyCCX6VliFhFqAXHuLmXEdXYUpTST/zDSY03dHd2neEh7cG09Q0rfXY4UmOFqkr5UXReFAULo1EwLPmpQ/PsPn6c+4apqy4Qqt6c+DzcGVroRVabak5ktDjSP7m3CzAwhBs/LBuRhLbkEpK7XHB5rKhFAcqYkzc9yr6+8ZhhhPhcEsjNoBoe3cRrqXgll2QhlMtkbQ2+tOP+LFB4sIf1R8aaesF9xMdRtz6z78/vFrClLC1twyYZlFesUpIoqWvIA9AbPohXOTkRz3Hzmf+SI3ZvefY5A41TmaP4Mb5wI0DNw7cOHBjH7gxy3vFje2mdSDHgRwHchzI8bnkOOnXxjHt/r0zkONAjgM5DuT4BHLMe7Zz7P4FO5DjQI4DOQ7k+ARynPVs59h9S2Igx4EcB3IcyPEJ5Fjk+f9HjiheXsj0tqsXXsev/wA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-13T06:53:14.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bLwxWcmLjOV3-n367uuX" version="20.8.17" type="github">
+  <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="57fe6abec08f04cb-1" value="14/02-28/02" style="shape=step;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-2" value="1/3-3/3" style="shape=step;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-3" value="27/03" style="shape=step;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-4" value="28/03" style="shape=step;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-5" value="29/03" style="shape=step;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-6" value="Nov" style="shape=step;whiteSpace=wrap;html=1;fontSize=16;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-7" value="FITFEST 2023" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="120" y="110" width="860" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-8" value="Open register link for DAN community event.&lt;br&gt;(1st day event: presentations based on votes) --&amp;gt; Total prize is 20m&lt;br&gt;&lt;br&gt;Prepare slide for brief introduction at FIT FEST kickoff day --&amp;gt; done&lt;br&gt;&lt;br&gt;&lt;br&gt;Prepare slide for DAN workshop --&amp;gt; done&lt;br&gt;&lt;br&gt;Sent invitation for DAN successful topic owner&lt;br&gt;&lt;br&gt;Register link&lt;br&gt;https://forms.office.com/e/&lt;br&gt;cRbHMucERD" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-9" value="Based on the number of associates registered, we organized them into groups.&lt;br&gt;&lt;br&gt;&lt;br&gt;Prepare gifts for player&lt;br&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="04ziJjHtE9LrtKSQdhc1-1" value="First day event started" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="04ziJjHtE9LrtKSQdhc1-3" value="Presentation of DAN successful topic.&lt;br&gt;&lt;br&gt;Expectations: Doc-as-code, Smart Coffee break." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
