@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T06:53:14.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bLwxWcmLjOV3-n367uuX" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T06:39:19.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0NFyHIfwhoZxxZtoYqTm" version="20.8.20" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="57fe6abec08f04cb-1" value="14/02-28/02" style="shape=step;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-1" value="24/02-09/03" style="shape=step;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="180" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-2" value="1/3-3/3" style="shape=step;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-2" value="10/3" style="shape=step;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-3" value="27/03" style="shape=step;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
@@ -28,13 +28,13 @@
         <mxCell id="57fe6abec08f04cb-8" value="Open register link for DAN community event.&lt;br&gt;(1st day event: presentations based on votes) --&amp;gt; Total prize is 20m&lt;br&gt;&lt;br&gt;Prepare slide for brief introduction at FIT FEST kickoff day --&amp;gt; done&lt;br&gt;&lt;br&gt;&lt;br&gt;Prepare slide for DAN workshop --&amp;gt; done&lt;br&gt;&lt;br&gt;Sent invitation for DAN successful topic owner&lt;br&gt;&lt;br&gt;Register link&lt;br&gt;https://forms.office.com/e/&lt;br&gt;cRbHMucERD" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-9" value="Based on the number of associates registered, we organized them into groups.&lt;br&gt;&lt;br&gt;&lt;br&gt;Prepare gifts for player&lt;br&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-9" value="Based on the number of associates registered, we organized them into groups.&lt;br&gt;&lt;br&gt;&lt;br&gt;Prepare gifts for player&lt;br&gt;&lt;br&gt;Sent the list of participants for COM team (Nguyen Phuong Yen Ngoc)" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="04ziJjHtE9LrtKSQdhc1-1" value="First day event started" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="04ziJjHtE9LrtKSQdhc1-1" value="First day event started&lt;br&gt;&lt;br&gt;Location:&amp;nbsp;&lt;br&gt;Co-workspace&lt;br&gt;&lt;br&gt;Rewards &amp;amp; Gift refer to slide&amp;nbsp;&lt;br&gt;&lt;br&gt;Game rules refer to slide&lt;br&gt;&lt;br&gt;Require 5 people to moderate&lt;br&gt;&lt;br&gt;Require stall and banner to put in front of the room&lt;br&gt;&lt;br&gt;Banner design --&amp;gt; done" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="405" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="04ziJjHtE9LrtKSQdhc1-3" value="Presentation of DAN successful topic.&lt;br&gt;&lt;br&gt;Expectations: Doc-as-code, Smart Coffee break." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="04ziJjHtE9LrtKSQdhc1-3" value="Workshop and DAN topic owner sharing&lt;br&gt;&lt;br&gt;Presentation of DAN successful topic.&lt;br&gt;&lt;br&gt;Expectations: Doc-as-code, Smart Coffee break.&lt;br&gt;&lt;br&gt;&lt;br&gt;Prepare food and drinks" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="280" width="140" height="470" as="geometry" />
         </mxCell>
       </root>
